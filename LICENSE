@@ -1,0 +1,185 @@
+Music Reuse License 1.0 - No AI Training
+
+Copyright (c) {{YEAR}} {{COPYRIGHT_HOLDER}}
+
+English (Governing Version)
+===========================
+
+1. Permission
+
+Subject to the terms of this License, the copyright holder grants you a
+worldwide, royalty-free, non-exclusive, non-sublicensable license to:
+
+- reproduce and publicly perform the Work;
+- distribute and make the Work available to the public;
+- modify, remix, arrange, transform, and create derivative works from the
+  Work; and
+- exercise the permissions above for commercial or non-commercial purposes.
+
+"Work" means the music, sound recording, lyrics, artwork, metadata, or other
+material distributed with this License, but only to the extent that the
+copyright holder has the authority to license that material.
+
+2. Conditions
+
+When distributing the Work or a derivative work, you must:
+
+- include a copy of, or a link to, this License;
+- retain any copyright and attribution notices supplied with the Work;
+- identify the copyright holder when attribution information is supplied; and
+- clearly indicate whether you modified the Work.
+
+You may license your original contributions to a derivative work under terms
+of your choice, but those terms must not remove or override the restrictions
+that this License places on the original Work.
+
+3. No AI Training or Development
+
+You may not use the Work, in whole or in part, directly or indirectly, as
+input, training data, validation data, test data, evaluation data, or reference
+data for:
+
+- training, pre-training, fine-tuning, aligning, validating, testing,
+  benchmarking, or evaluating an artificial intelligence or machine-learning
+  model, system, service, dataset, or technology;
+- developing, improving, calibrating, or operating an artificial intelligence
+  or machine-learning model, system, service, dataset, or technology; or
+- creating embeddings, feature representations, model weights, synthetic
+  training data, or other machine-readable representations for any purpose
+  described above.
+
+This restriction applies regardless of whether the activity is commercial,
+non-commercial, private, academic, or research-oriented.
+
+For clarity, ordinary playback, search indexing that does not train or improve
+an AI or machine-learning technology, format conversion, compression, and
+audio analysis solely for reproducing, distributing, performing, modifying,
+or describing the Work are permitted.
+
+4. Exceptions and Separate Permission
+
+This License does not restrict any use that applicable law permits without the
+copyright holder's authorization. The copyright holder may separately grant
+written permission for a use otherwise prohibited by this License.
+
+5. No Trademark, Publicity, or Endorsement Rights
+
+This License does not grant rights in trademarks, trade names, likenesses,
+voices, privacy rights, publicity rights, or other rights not controlled by
+copyright. You may not imply that the copyright holder endorses you or your
+use of the Work.
+
+6. Termination
+
+Your rights under this License terminate automatically if you fail to comply
+with its terms. They are reinstated automatically if you cure the violation
+within 30 days after discovering it. The copyright holder may also reinstate
+your rights in writing. Termination does not limit any remedies available for
+the violation.
+
+7. Disclaimer of Warranty and Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE WORK IS PROVIDED "AS IS" AND
+WITHOUT WARRANTIES OF ANY KIND. THE COPYRIGHT HOLDER WILL NOT BE LIABLE FOR
+ANY CLAIM, LOSS, DAMAGE, OR OTHER LIABILITY ARISING FROM THE WORK OR ITS USE.
+
+8. Interpretation
+
+This is a custom license and is not a Creative Commons license, an open-source
+license, or an Open Definition-compliant license. If any provision is
+unenforceable, it will be limited or removed only to the minimum extent
+necessary, and the remaining provisions will continue in effect.
+
+The English version governs. The Japanese translation below is provided for
+reference. If the versions conflict, the English version controls.
+
+
+日本語（参考訳）
+================
+
+Music Reuse License 1.0 - No AI Training
+（音楽再利用ライセンス1.0・AI学習禁止）
+
+Copyright (c) {{YEAR}} {{COPYRIGHT_HOLDER}}
+
+1. 許諾
+
+著作権者は、本ライセンスの条件に従うことを条件として、利用者に対し、以下を行う
+ための、全世界的、無償、非独占的かつ再許諾不可の利用許諾を付与します。
+
+- 本作品を複製し、公に演奏すること
+- 本作品を配布し、公衆に利用可能とすること
+- 本作品を修正、リミックス、編曲、変形し、または二次的著作物を作成すること
+- 上記の行為を商用または非商用の目的で行うこと
+
+「本作品」とは、本ライセンスとともに提供される音楽、録音物、歌詞、アートワーク、
+メタデータその他の素材を意味します。ただし、著作権者が当該素材を許諾する権限を
+有する範囲に限ります。
+
+2. 条件
+
+本作品または二次的著作物を配布する場合、利用者は以下を行わなければなりません。
+
+- 本ライセンスの写しまたは本ライセンスへのリンクを含めること
+- 本作品に付された著作権表示および帰属表示を保持すること
+- 帰属情報が提供されている場合、著作権者を明示すること
+- 本作品を変更したか否かを明示すること
+
+二次的著作物に対する利用者自身の創作的寄与には、任意の条件を適用できます。ただし、
+その条件によって、本ライセンスが原作品に課す制限を削除または無効化することは
+できません。
+
+3. AI学習および開発の禁止
+
+利用者は、本作品の全部または一部を、直接または間接に、入力データ、学習データ、
+検証データ、テストデータ、評価データまたは参照データとして、以下の目的に利用しては
+なりません。
+
+- 人工知能または機械学習のモデル、システム、サービス、データセットもしくは技術の
+  学習、事前学習、追加学習、ファインチューニング、アラインメント、検証、テスト、
+  ベンチマークまたは評価
+- 人工知能または機械学習のモデル、システム、サービス、データセットもしくは技術の
+  開発、改善、調整または運用
+- 上記の目的に用いる埋め込み表現、特徴表現、モデル重み、合成学習データその他の
+  機械可読表現の作成
+
+この禁止は、商用、非商用、私的、学術的または研究目的の別を問いません。
+
+ただし、AIまたは機械学習技術の学習もしくは改善を行わない通常の再生および検索用
+インデックス作成、ならびに、本作品の複製、配布、演奏、改変または説明のみを目的と
+する形式変換、圧縮および音声解析は許可されます。
+
+4. 法令上の例外および個別許諾
+
+本ライセンスは、適用法令により著作権者の許諾なく行うことが認められる利用を制限
+しません。著作権者は、本ライセンスで禁止される利用について、別途書面により許諾
+することができます。
+
+5. 商標、肖像等および推奨を示す権利の不許諾
+
+本ライセンスは、商標、商号、肖像、声、プライバシー権、パブリシティ権その他著作権
+によって管理されない権利を許諾するものではありません。著作権者が利用者または
+利用者による本作品の利用を推奨していると示唆してはなりません。
+
+6. 終了
+
+利用者が本ライセンスの条件に違反した場合、本ライセンスに基づく権利は自動的に終了
+します。ただし、利用者が違反を認識してから30日以内に違反を是正した場合、当該権利
+は自動的に回復します。著作権者は書面により権利を回復させることもできます。終了は、
+違反に対して利用可能な救済手段を制限しません。
+
+7. 無保証および責任制限
+
+法令で認められる最大限の範囲において、本作品は「現状有姿」で提供され、いかなる
+保証もありません。著作権者は、本作品またはその利用から生じる請求、損失、損害
+その他の責任を負いません。
+
+8. 解釈
+
+本ライセンスは独自ライセンスであり、Creative Commonsライセンス、オープンソース
+ライセンスまたはOpen Definitionに準拠するライセンスではありません。いずれかの
+条項が執行不能である場合、必要最小限の範囲で当該条項を制限または削除し、その他の
+条項は引き続き効力を有します。
+
+英語版を正文とし、日本語版は参考訳として提供します。両者に矛盾がある場合は、
+英語版が優先します。
