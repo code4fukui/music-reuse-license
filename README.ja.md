@@ -1,4 +1,4 @@
-# Music Reuse License Template
+# Reuse Without AI License
 
 [English](README.md) | [日本語](README.ja.md)
 
